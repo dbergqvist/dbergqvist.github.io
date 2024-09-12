@@ -79,7 +79,7 @@ params:
   socialIcons:
     - name: twitter
       url: "https://x.com/@bexie"
-    - name: 'apple music'
+    - name: lastfm
       url: "https://music.apple.com/profile/dbergqvist"
     - name: github
       url: "https://github.com/dbergqvist"
