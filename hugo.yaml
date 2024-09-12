@@ -79,8 +79,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://x.com/@bexie"
-    - name: spotify
-      url: "https://open.spotify.com/user/bexie?si=f8a4d109fc354029"
+    - name: apple
+      url: "https://music.apple.com/profile/dbergqvist"
     - name: github
       url: "https://github.com/dbergqvist"
     - name: linkedin
