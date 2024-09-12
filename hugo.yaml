@@ -80,7 +80,7 @@ params:
     - name: twitter
       url: "https://x.com/@bexie"
     - name: lastfm
-      url: "https://music.apple.com/profile/dbergqvist"
+      url: "https://www.last.fm/user/danielbergqvist"
     - name: github
       url: "https://github.com/dbergqvist"
     - name: linkedin
