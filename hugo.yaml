@@ -78,7 +78,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://x.com/@bexie"
+      url: "https://x.com/bexie"
     - name: github
       url: "https://github.com/dbergqvist"
     - name: linkedin
